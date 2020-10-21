@@ -1,1 +1,2 @@
 hinos_text
+hinos_text2
